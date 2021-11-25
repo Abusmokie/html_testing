@@ -1,1 +1,1 @@
-<?php include_once("Boxes.html"); ?>
+<?php include_once("index.html"); ?>
